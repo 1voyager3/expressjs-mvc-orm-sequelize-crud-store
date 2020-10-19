@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc41d24b-5599-4b24-94bb-b3e59fec231b" name="Default Changelist" comment="Added Dynamic Routing &amp; Enhanced Models">
+      <change afterPath="$PROJECT_DIR$/models/cart-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/order-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/shop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/forms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/shop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utility/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/utility/database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/shop/cart.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/shop/cart.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/shop/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/shop/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/shop/orders.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/shop/orders.ejs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Pug File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ipXrkbRP2frDonn5aU8eqvzRD6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/views/shop" />
+      <recent name="$PROJECT_DIR$/views/admin" />
+      <recent name="$PROJECT_DIR$/views" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc41d24b-5599-4b24-94bb-b3e59fec231b" name="Default Changelist" comment="" />
+      <created>1602605707460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602605707460</updated>
+      <workItem from="1602605708524" duration="39475000" />
+      <workItem from="1602700284648" duration="12574000" />
+      <workItem from="1602780888375" duration="14795000" />
+      <workItem from="1602854079097" duration="29504000" />
+      <workItem from="1602960850406" duration="1188000" />
+      <workItem from="1603043539586" duration="57000" />
+      <workItem from="1603043616634" duration="16329000" />
+      <workItem from="1603063067272" duration="2732000" />
+      <workItem from="1603072989585" duration="3108000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1602618604936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602618604936</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update">
+      <created>1602626745965</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602626745966</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Init commit">
+      <created>1602688993759</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602688993759</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Init commit">
+      <created>1602696176331</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602696176331</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Init commit">
+      <created>1602699222550</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602699222550</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Init commit">
+      <created>1602781082754</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602781082754</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Enhanced App">
+      <created>1602794751591</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602794751592</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Dynamic Routing &amp; Enhanced Models">
+      <created>1602886339730</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602886339730</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Init commit" />
+    <MESSAGE value="Enhanced App" />
+    <MESSAGE value="Added Dynamic Routing &amp; Enhanced Models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Dynamic Routing &amp; Enhanced Models" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="708" y="556" key="#File_Watchers" timestamp="1602689035281">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="708" y="556" key="#File_Watchers/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602689035281" />
+    <state x="630" y="494" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602775006974">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="630" y="494" key="#com.intellij.fileTypes.FileTypeChooser/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602775006974" />
+    <state x="598" y="0" width="1267" height="1012" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602682266766">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="598" y="0" width="1267" height="1012" key="#com.intellij.ide.macro.MacrosDialog/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602682266766" />
+    <state x="535" y="356" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602869169759">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="535" y="356" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602869169759" />
+    <state x="524" y="510" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602782463238">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="524" y="510" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602782463238" />
+    <state x="459" y="39" key="EditFileWatcherDialog" timestamp="1602682404479">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="459" y="39" key="EditFileWatcherDialog/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602682404479" />
+    <state x="598" y="581" width="783" height="360" key="Github.ShareDialog" timestamp="1603077333766">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="598" y="581" width="783" height="360" key="Github.ShareDialog/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1603077333766" />
+    <state x="442" y="160" key="Github.UntrackedFilesDialog" timestamp="1602960936176">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="442" y="160" key="Github.UntrackedFilesDialog/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602960936176" />
+    <state x="554" y="121" key="SettingsEditor" timestamp="1602955096787">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="554" y="121" key="SettingsEditor/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602955096787" />
+    <state x="297" y="334" key="Vcs.Push.Dialog.v2" timestamp="1602960960832">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="297" y="334" key="Vcs.Push.Dialog.v2/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602960960832" />
+    <state x="581" y="607" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602794899953">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="581" y="607" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602794899953" />
+    <state x="616" y="160" key="scopes" timestamp="1602681960679">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="616" y="160" key="scopes/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602681960679" />
+    <state x="336" y="0" width="1009" height="1470" key="search.everywhere.popup" timestamp="1602864542367">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="336" y="0" width="1009" height="1470" key="search.everywhere.popup/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602864542367" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
